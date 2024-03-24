@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ngrx-forms": "^8.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "shy": "^0.3.3"
+  }
+}
